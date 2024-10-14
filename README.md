@@ -35,7 +35,7 @@ This Flutter application consists of two main features: a To-Do List manager and
 - Android Studio / Visual Studio Code (optional, but recommended)
 
 ### APK FLie path
-/home/StudioProjects/todo_list/b/app/outputs/flutter-apk
+todo_list/build/app/outputs/flutter-apk
 
 ### Installation
 1. Clone the repository:
