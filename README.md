@@ -24,8 +24,8 @@ This Flutter application consists of two main features: a To-Do List manager and
 ### To-Do List
 ![To-Do List](assets/screenshots/todo_list.png)
 
-### Subtasks
-![Subtasks](assets/screenshots/subtasks.png)
+### Sensor Tracking
+![Sensor Tracking](assets/screenshots/sensor.png)
 
 ## Getting Started
 
@@ -33,6 +33,9 @@ This Flutter application consists of two main features: a To-Do List manager and
 - Flutter SDK (latest version)
 - Dart SDK (comes with Flutter)
 - Android Studio / Visual Studio Code (optional, but recommended)
+
+### APK FLie path
+/home/StudioProjects/todo_list/b/app/outputs/flutter-apk
 
 ### Installation
 1. Clone the repository:
