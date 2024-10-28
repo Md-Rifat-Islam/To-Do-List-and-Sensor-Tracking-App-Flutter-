@@ -18,16 +18,22 @@ This Flutter application consists of two main features: a To-Do List manager and
 - **Alerts for Movement**: The app triggers alerts based on specific movement thresholds.
 
 ## Screenshots
+<p align="center">
+    # Home Screen
+  <img src="assets/screenshots/home_screen.png" alt="Home Screen" height="200" width="200"/>
+    # To-Do List
+  <img src="assets/screenshots/todo_list.png" alt="To-Do List" height="200" width="200"/>
+    # Sensor Tracking
+  <img src="assets/screenshots/sensor.png" alt="Sensor Tracking" height="200" width="200"/>
+</p>
+<!--
 ### Home Screen
 ![Home Screen](assets/screenshots/home_screen.png)
-
 ### To-Do List
 ![To-Do List](assets/screenshots/todo_list.png)
-
 ### Sensor Tracking
 ![Sensor Tracking](assets/screenshots/sensor.png)
-
-## Getting Started
+-->
 
 ### Prerequisites
 - Flutter SDK (latest version)
